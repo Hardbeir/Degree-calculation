@@ -1,0 +1,8 @@
+C:\Users\student.LAB.000\Documents\Visual Studio 2010\124\124\bin\Debug\124.exe
+C:\Users\student.LAB.000\Documents\Visual Studio 2010\124\124\bin\Debug\124.pdb
+C:\Users\student.LAB.000\Documents\Visual Studio 2010\124\124\obj\x86\Debug\124.exe
+C:\Users\student.LAB.000\Documents\Visual Studio 2010\124\124\obj\x86\Debug\124.pdb
+F:\Documents\124\124\obj\x86\Debug\124.exe
+F:\Documents\124\124\obj\x86\Debug\124.pdb
+F:\Documents\124\124\bin\Debug\124.exe
+F:\Documents\124\124\bin\Debug\124.pdb

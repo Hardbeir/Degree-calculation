@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degree calculation", "124\Degree calculation.csproj", "{CE3B4591-ED84-42DD-88FA-60891E746E61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3B4591-ED84-42DD-88FA-60891E746E61}.Debug|x86.ActiveCfg = Debug|x86
+		{CE3B4591-ED84-42DD-88FA-60891E746E61}.Debug|x86.Build.0 = Debug|x86
+		{CE3B4591-ED84-42DD-88FA-60891E746E61}.Release|x86.ActiveCfg = Release|x86
+		{CE3B4591-ED84-42DD-88FA-60891E746E61}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6E8D6F-18B2-4187-9076-8F8F889B8AA9}
+	EndGlobalSection
+EndGlobal
